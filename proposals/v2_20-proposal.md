@@ -45,7 +45,7 @@ Check the correct installation:
 
 ```bash
 $ terrad version
-v2.20.0
+2.20.0
 ```
 
 After that, restart the client with `terrad start` or your system service and wait for consensus. During that period, **don't restart the client if not otherwise asked to do so**.
